@@ -17,7 +17,7 @@ obgadac jak ma wygladac interface
 zwracane wartosci z requestow
 sciezki w routach
 
-duuuuuuuuuupa
+ujnknkuupa
 
 company:
 name
