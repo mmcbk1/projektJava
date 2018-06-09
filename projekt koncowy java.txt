@@ -3,13 +3,13 @@ DEMO CRM:
 	-dodawanie firmy, edycja, usuwanie
 	-dodawnaie pracownika, edycja, usuwanie
 	-wyszukiwarka pracownika
-	-dodawanie dzia³ów, edycja, usuwanie
+	-dodawanie dziaÂ³Ã³w, edycja, usuwanie
 	-system wysylania wiadomosci
-	-role u¿ytkowników
+	-role uÂ¿ytkownikÃ³w
 
 
 trzeba zrobic :
-rozpisaæ tabele
+rozpisaÃ¦ tabele
 pola w tabelach
 relacje
 
@@ -17,7 +17,9 @@ obgadac jak ma wygladac interface
 zwracane wartosci z requestow
 sciezki w routach
 
-duuuuudsuuuuupa
+
+ketlkupa
+
 
 company:
 name
