@@ -1,0 +1,72 @@
+DEMO CRM:
+ Podstawowe funkcjonalnosci
+	-dodawanie firmy, edycja, usuwanie
+	-dodawnaie pracownika, edycja, usuwanie
+	-wyszukiwarka pracownika
+	-dodawanie dzia³ów, edycja, usuwanie
+	-system wysylania wiadomosci
+	-role u¿ytkowników
+
+
+trzeba zrobic :
+rozpisaæ tabele
+pola w tabelach
+relacje
+
+obgadac jak ma wygladac interface
+zwracane wartosci z requestow
+sciezki w routach
+
+
+
+company:
+name
+NIP
+phone
+fax
+address_id
+created_at
+updated_at
+
+messages:
+sender_id
+content
+receiver_id
+created_at
+
+notifications:
+user_id
+type
+read_at
+
+user_roles:
+user_id
+role_id
+
+roles:
+name
+created_at
+updated_at
+
+departments:
+company_id
+address_id
+name
+phone
+short_name
+
+users:
+name
+last_name
+email
+phone
+bith_date
+salary
+created_at
+
+addresses:
+street
+no
+city
+country
+zip_code
